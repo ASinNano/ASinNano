@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ASinNano
+- 👋 Hi, I’m @Adam
 - 👀 I’m interested in Nanotechnologies & Computer Sciences
 - 🌱 I’m currently learning Machine learning & software development
 - 💞️ I’m looking to collaborate 
